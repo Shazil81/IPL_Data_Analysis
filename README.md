@@ -14,7 +14,7 @@ IPL-Analysis/
 
 ##  Objectives
 
-- Clean and preprocess IPL match and delivery data using SQL
+- Clean and Preprocess IPL match and delivery data using SQL
 - Perform detailed analysis to extract key performance insights
 - Visualize trends, patterns, and top performers using:
   - Python (Jupyter Notebook)
@@ -28,14 +28,14 @@ Located in [`IPL_Analysis.sql`](IPL_Analysis.sql)
 -  Match-wise and season-wise metrics
 -  Top players by runs, wickets, sixes and player of the match award
 -  Count of matches played in each venue, which team won the most tosses
--  Team wise average Score in 1st inning
--  which bowler has highest dot ball % min 1000 balls
--  Most Consistent Batsmen Across Seasons
+-  Team wise average score in 1st inning
+-  Which bowler has highest dot ball % min 1000 balls
+-  Most consistent batsmen across seasons
 -  Strike rate improvements over time
--  Top 3 Scorers per Season
--  Season-wise Top Wicket Taker
--  Bowlers with Best Economy in Each Season
--  Players Who Improved Strike Rate Over Time
+-  Top 3 scorers per season
+-  Season-wise top wicket taker
+-  Bowlers with best economy in each season
+-  Players who improved strike rate over time
 -  Dismissal analysis by player
 
 ##  Power BI Dashboard
@@ -214,7 +214,7 @@ Notebook: [`IPL_Analytics.ipynb`](IPL_Analytics.ipynb)
 - `matches.csv`
 - `deliveries.csv`
 
-(*IPL datasets publicly available on Kaggle*)
+(*IPL datasets publicly available on Kaggle*) -- https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020
 
 
 ##  Project Highlights
