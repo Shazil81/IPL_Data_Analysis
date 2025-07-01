@@ -61,7 +61,6 @@ The "IPL Overview" page presents a high-level summary of the tournament over the
 
 - <img width="628" alt="overview" src="https://github.com/user-attachments/assets/603380bb-fb67-4f2e-86a6-45305327b578" />
 
-
 This page serves as a starting point to understand the tournament scale and team performance at a glance.
 
 ---
@@ -78,7 +77,6 @@ The "Batting Insights" page dives deep into individual Season Wise batting perfo
 - Drill-down visuals for player-wise and season-wise insights
 
 - <img width="622" alt="Batting Insights" src="https://github.com/user-attachments/assets/a6d7bd3b-3ae1-459f-abe4-d9bbfe7df323" />
-
 
 Useful for understanding who the most impactful batsmen were and how they performed across seasons
 
@@ -97,7 +95,6 @@ This section focuses on individual and Season Wise bowling performance. It inclu
 
 - <img width="626" alt="Bowling Insights" src="https://github.com/user-attachments/assets/01054212-d2cd-464a-b51d-0042e6663192" />
 
-
 This helps identify top-performing bowlers and how they performed across seasons
 
 ---
@@ -113,7 +110,6 @@ The "Match Summary" page allows users to explore specific match-level data with 
 - Filter to choose specific **Match**
 
 - <img width="628" alt="Match Summary" src="https://github.com/user-attachments/assets/53319c85-5cea-4323-9042-ee42f235aec9" />
-
 
  Ideal for post-match analysis and reviewing player contributions in a single match.
 
