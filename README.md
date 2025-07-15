@@ -93,7 +93,8 @@ This section focuses on individual and Season Wise bowling performance. It inclu
 - Filters to choose specific **Season** and **Bowler**
 - Drill-down visuals for player-wise and season-wise insights
 
-  <img width="626" alt="Bowling Insights" src="https://github.com/user-attachments/assets/01054212-d2cd-464a-b51d-0042e6663192" />
+  <img width="631" height="364" alt="Bowling Insights" src="https://github.com/user-attachments/assets/e47e77c4-e2e0-4d9d-9fd4-a75376619b8c" />
+
 
 This helps identify top-performing bowlers and how they performed across seasons
 
