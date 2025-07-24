@@ -1,6 +1,6 @@
 # IPL_Data_Analysis
 
-This project is a comprehensive data analysis and visualization of Indian Premier League (IPL) data using **SQL**, **Python**, and **Power BI**.
+This project is a comprehensive data analysis and visualization of Indian Premier League (IPL) data using **SQL** and **Python**
 
 ##  Project Structure
 
@@ -8,7 +8,6 @@ This project is a comprehensive data analysis and visualization of Indian Premie
 IPL-Analysis/
 ├── IPL_Analysis.sql           # SQL data cleaning and analysis queries
 ├── IPL_Analytics.ipynb        # Python data exploration and visualizations (Matplotlib/Seaborn)
-├── IPL_Dashboard.pbix         # Power BI dashboard for interactive reporting
 └── README.md                  # Project overview and documentation
 ```
 
@@ -18,7 +17,7 @@ IPL-Analysis/
 - Perform detailed analysis to extract key performance insights
 - Visualize trends, patterns, and top performers using:
   - Python (Jupyter Notebook)
-  - Power BI (interactive dashboard)
+ 
 
 ## 🔍 SQL Analysis
 
@@ -38,83 +37,6 @@ Located in [`IPL_Analysis.sql`](IPL_Analysis.sql)
 -  Players who improved strike rate over time
 -  Dismissal analysis by player
 
-##  Power BI Dashboard
-
-File: [`IPL_Dashboard.pbix`](IPL_Dashboard.pbix)
-
-## Key Features:
-
-### IPL Overview
-
-The "IPL Overview" page presents a high-level summary of the tournament over the years. It includes:
-
-- **Total Matches Played**
-- **Total Runs Scored**
-- **Total Wickets Taken**
-- **Total Boundaries Hit**
-- **Tournament Winner**
-- **Matches Played by Season**
-- **Matches Won by Team**
-- **Top 10 Player of the Match** where matches were played
-- **Toss Decision** across teams
-- Filters to choose specific **Season**, **Match** and **Team**
-
-  <img width="628" alt="overview" src="https://github.com/user-attachments/assets/603380bb-fb67-4f2e-86a6-45305327b578" />
-
-This page serves as a starting point to understand the tournament scale and team performance at a glance.
-
----
-
-## Batting Insights
-
-The "Batting Insights" page dives deep into individual Season Wise batting performances. It includes:
-
-- **Total Runs, Strike Rate and Total Balls Faced**
-- **Total Sixes and Fours**
-- **Top Run Scorers, Most Sixes and Dissmissals Type**
-- **Strike Rate by Season**
-- Filters to choose specific **Season** and **Batsman**
-- Drill-down visuals for player-wise and season-wise insights
-
-  <img width="622" alt="Batting Insights" src="https://github.com/user-attachments/assets/a6d7bd3b-3ae1-459f-abe4-d9bbfe7df323" />
-
-Useful for understanding who the most impactful batsmen were and how they performed across seasons
-
----
-
-## Bowling Insights
-
-This section focuses on individual and Season Wise bowling performance. It includes:
-
-- **Total Wickets, Dot Balls Bowled, Total Balls Bowled, Runs Conceded and Economy Rate**
-- **Top Wicket Takers and Bowler with Most Dot Balls**
-- **Wickets per Season**
-- **Best Economy Rate**
-- Filters to choose specific **Season** and **Bowler**
-- Drill-down visuals for player-wise and season-wise insights
-
-  <img width="631" height="364" alt="Bowling Insights" src="https://github.com/user-attachments/assets/e47e77c4-e2e0-4d9d-9fd4-a75376619b8c" />
-
-
-This helps identify top-performing bowlers and how they performed across seasons
-
----
-
-## Match Summary
-
-The "Match Summary" page allows users to explore specific match-level data with filters. It contains:
-
-- **Match Header Details** (teams, venue, date, toss winner, toss decisions, winner, player of the match)
-- **Total Match Runs, Wickets, Sixes, Fours**
-- **Top Run Scorers and Wicket Takers in the Match**
-- **Team Score Comparison**
-- Filter to choose specific **Match**
-
-  <img width="628" alt="Match Summary" src="https://github.com/user-attachments/assets/53319c85-5cea-4323-9042-ee42f235aec9" />
-
- Ideal for post-match analysis and reviewing player contributions in a single match.
-
- The dashboard provides a user-friendly way to explore IPL data and answer specific questions through slicers and charts.
 
 ## Python Analysis (Jupyter Notebook)
 
@@ -204,12 +126,6 @@ Notebook: [`IPL_Analytics.ipynb`](IPL_Analytics.ipynb)
 
 ---
 
-
-
-
-
-
-
 ##  Datasets Used
 
 - `matches.csv`
@@ -222,5 +138,7 @@ Notebook: [`IPL_Analytics.ipynb`](IPL_Analytics.ipynb)
 
 - Performed **data wrangling & visualization** using **Python (pandas, matplotlib, seaborn)**
 - Applied **SQL** to extract insights from structured datasets
-- Built interactive BI reports in **Power BI**, showcasing IPL insights
+
+## Key Insights
+
 
