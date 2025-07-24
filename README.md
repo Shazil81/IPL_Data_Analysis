@@ -140,5 +140,24 @@ Notebook: [`IPL_Analytics.ipynb`](IPL_Analytics.ipynb)
 - Applied **SQL** to extract insights from structured datasets
 
 ## Key Insights
+- Mumbai Indians and Chennai Super Kings have emerged as the most dominant IPL teams in terms of total match wins.
+
+- Virat Kohli holds the record for scoring the most runs in IPL history, followed by Shikhar Dhawan and David Warner.
+
+- Yuzvendra Chahal leads wicket taking chart and Piyush Chawla close behind.
+
+- Toss-winners have only a slight advantage — winning about 52% of the matches.
+
+- Wankhede Stadium, Chinnaswamy and Eden Gardens are among the top venues, hosting the highest number of matches.
+
+- Average team scores around 167 to 180, top 5 teams.
+
+- Year-wise Trends show an increase in total runs scored per match over the seasons, indicating more aggressive gameplay.
+
+- Most Player of the Match awards goes to AB Devilliers.
+
+
+
+
 
 
