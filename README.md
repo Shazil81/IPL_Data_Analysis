@@ -38,7 +38,7 @@ Located in [`IPL_Analysis.sql`](IPL_Analysis.sql)
 -  Dismissal analysis by player
 
 
-## Python Analysis (Jupyter Notebook)
+## Python Analysis and Visualization (Jupyter Notebook)
 
 Notebook: [`IPL_Analytics.ipynb`](IPL_Analytics.ipynb)
 
